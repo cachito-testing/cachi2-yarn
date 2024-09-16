@@ -4,7 +4,6 @@
   "main": "index.js",
   "private": true,
   "dependencies": {
-    "@colors/colors": "^1.6.0",
     "boxen": "file:external-packages/boxen-5.1.2.tgz",
     "fecha": "https://github.com/taylorhakes/fecha.git",
     "is-positive": "^3.1.0",
